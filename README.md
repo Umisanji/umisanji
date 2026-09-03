@@ -95,11 +95,9 @@
 ###  Estadísticas de GitHub
 
 <div align="center">
-
-  <!-- Tarjetas en tema oscuro coordinadas con la paleta del portafolio (#0C0C0C, #BBCCD7, #B600A8) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Umisanji&show_icons=true&theme=dark&bg_color=0C0C0C&title_color=BBCCD7&text_color=D7E2EA&icon_color=B600A8&border_color=22252C&hide_border=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umisanji&layout=compact&theme=dark&bg_color=0C0C0C&title_color=BBCCD7&text_color=D7E2EA&border_color=22252C&hide_border=false" width="48%" alt="Top Languages" />
-
+  <br/><br/>
+  <!-- Racha de GitHub con el mismo tema oscuro -->
+  <img src="https://streak-stats.demolab.com?user=Umisanji&theme=dark&background=0C0C0C&border=22252C&stroke=B600A8&ring=B600A8&fire=B600A8&currStreakLabel=BBCCD7" width="48%" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
