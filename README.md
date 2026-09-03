@@ -49,6 +49,7 @@
       <p align="center">
         <code>TypeScript</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>Browser Extension API</code>
       </p>
+      <br/>
     </td>
     <td width="50%" valign="top">
       <h4 align="center"> Pases Wallet </h4>
@@ -58,6 +59,7 @@
       <p align="center">
         <code>React Native</code> • <code>Serverless Cloud</code> • <code>Dynamic QR</code> • <code>TypeScript</code>
       </p>
+      <br/>
     </td>
   </tr>
   <tr>
@@ -69,6 +71,7 @@
       <p align="center">
         <code>Full-Stack Web</code> • <code>Fotogrametría Aérea</code> • <code>GIS</code> • <code>Bases de Datos Relacionales</code>
       </p>
+      <br/>
     </td>
   </tr>
 </table>
